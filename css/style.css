@@ -179,6 +179,7 @@ section.after {
   font-weight: 500;
   font-size: 1.5rem;
   font-family: 'Poppins';
+  padding-left: 1px;
   text-align: center;
   margin: 0;
   line-height: 70px;
